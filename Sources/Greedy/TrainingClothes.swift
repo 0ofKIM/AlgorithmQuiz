@@ -1,3 +1,7 @@
+/**
+1) 프로그래머스
+2) Level1 문제 : 체육복
+*/
 import Foundation
 
 func solution(_ n:Int, _ lost:[Int], _ reserve:[Int]) -> Int {
