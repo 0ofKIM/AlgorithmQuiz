@@ -1,3 +1,7 @@
 import UIKit
 
-var str = "Hello, playground"
+func solution(_ strings:[String], _ n:Int) -> [String] {
+    
+}
+
+solution(["abce", "abcd", "cdx"], 2)
